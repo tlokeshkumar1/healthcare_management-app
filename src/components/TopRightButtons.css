@@ -1,0 +1,19 @@
+/* TopRightButtons.css */
+.top-right-buttons {
+    position: absolute;
+    top: 10px;
+    text-align: center;
+    right: 10px;
+    display: flex;
+    gap: 10px;
+  }
+
+  .link {
+    color: black; /* Setting the text color to black */
+    background-color: white; /* Example background color */
+    border: none;
+    padding: 5px 10px;
+    margin-left: 10px; /* Adjust as needed */
+    cursor: pointer;
+  }
+  

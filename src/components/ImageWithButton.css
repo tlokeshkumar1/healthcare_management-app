@@ -1,0 +1,19 @@
+.image-container {
+  display: flex;
+}
+
+.image-wrapper {
+  position: relative;
+  margin-right: 10px;
+}
+
+.overlay-button {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: transparent;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
